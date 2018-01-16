@@ -1,0 +1,14 @@
+body {
+  background: #ddd;
+  margin: 0;
+  padding: 0;
+  line-height: 100vh;
+}
+
+h1 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 120px;
+  margin: 0;
+  text-align: center;
+  line-height: 100vh;
+}
